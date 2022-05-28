@@ -2,6 +2,6 @@
 
 Hello
 
-.## Part1: Sub topic
+## Part1: Sub topic
 
 This is my second line
